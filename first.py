@@ -4,3 +4,4 @@ print("Hello", name)
 def hero():
     return 
 
+print(name)
